@@ -1,0 +1,23 @@
+﻿你已经了解很多 Web 开发的知识。在继续学习下一阶段之前，请暂停一下，思考并回答以下问题：
+
+  * 哪些你觉得很容易？
+  * 你学到了那些新技能？
+  * 哪些你觉得很难？
+  * 你运用了哪些之前介绍过的“开发者思维”来解决你在学习过程中遇到的困难？
+
+---
+
+在下方输入你的回答：
+
+* 哪些你觉得很容易？
+  Answers: 
+  The text content elements are relatively easy and I just need to pay attention to those special inline markup elements such as <sup> and <sub>. As the number of those formats is limited, so it is not hard for me.
+* 你学到了那些新技能？
+  Answers:
+  I am happy to acquire another method to insert image, in which I referred to is the <figure> element. In addition, I learned another method to divide the two different parts. I put a horizontal rule in this project, while I found a 1px-height <div> element was picked to act as a line on Abcam’s website. It really opened my mind as it is better than <hr> element in a responsive page. 
+* 哪些你觉得很难？
+  Answers:
+  As mentioned above, I feel that it is hard to code wisely. The appearance of a page can be built in different structures. Different coding have their own advantages and disadvantages. This is not easy, but makes coding amazing and challenging.
+* 你运用了哪些之前介绍过的“开发者思维”来解决你在学习过程中遇到的困难？  *
+  Answers:
+  Learning is the process to meet and to solve questions. The resources and the media should never be limited. I will keep the note, ok, that’s all.
