@@ -1,2 +1,3 @@
 # udacity-project
-My Udacity projects. Make sure the present project is on default branch
+My Udacity projects.
+this branch is used to preview some result
