@@ -1,2 +1,2 @@
 # udacity-project
-## Article to Mockup
+## Animal Trading Cards
