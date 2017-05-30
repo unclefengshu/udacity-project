@@ -1,0 +1,31 @@
+*{
+	text-align: left；
+}
+.interesting-fact{
+	font-style: italic;
+}
+ul>li>span{
+	font-weight: bold;
+}
+ul>li{
+	list-style: none;
+}
+ul{
+	padding-left: 0;
+}
+div{
+	border: solid 1px #d3d3d3;
+}
+h3,img,p,ul,.information{
+	display: block;
+	margin: 15px 15px 15px 15px;
+}
+img{
+	width:300px;
+}
+.maincard{
+	width: 330px;
+}
+.information{
+	width: auto;
+}
